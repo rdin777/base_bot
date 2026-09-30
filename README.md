@@ -22,6 +22,10 @@ If you appreciate the work and want to support further security research:
 - 83 unique developers exploring the code
 - Featured on DEV.TO with positive feedback
 
+![GitHub stars](https://img.shields.io/github/stars/rdin777/base_bot?style=social)
+![GitHub forks](https://img.shields.io/github/forks/rdin777/base_bot?style=social)
+![GitHub issues](https://img.shields.io/github/issues/rdin777/base_bot)
+
 #  Base Arbitrage Detector
 
 A lightweight, real-time arbitrage opportunity detector between **Uniswap V3** and **Aerodrome** on the Base L2 network. Built with TypeScript and Viem for minimal resource consumption.
