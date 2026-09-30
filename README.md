@@ -17,6 +17,11 @@ If you appreciate the work and want to support further security research:
 **Solana:**8RpjaJQmCrRvKHMXA5ak4CrrLNJnJionwxMfTRG8YAS
 
 
+## 📈 Community Interest
+- 140+ clones in the first 2 weeks
+- 83 unique developers exploring the code
+- Featured on DEV.TO with positive feedback
+
 #  Base Arbitrage Detector
 
 A lightweight, real-time arbitrage opportunity detector between **Uniswap V3** and **Aerodrome** on the Base L2 network. Built with TypeScript and Viem for minimal resource consumption.
